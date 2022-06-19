@@ -1,0 +1,36 @@
+id: I07985CD5
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T13:29:50.712946'
+last_modified: '2022-06-19T13:29:50.712961'
+parser: null
+source_metadata:
+  title: 5th Dalai Lamas Annals
+  author: ngag dbang blo bzang rgya mtsho/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-08-16); converted from external file, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:unspecified
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/32
+  bases:
+    b25b:
+      title: 5th Dalai Lamas Annals
+      order: 1
+      base_file: b25b.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
